@@ -1,4 +1,0 @@
-sphinx-github-changelog
-sphinx-autodoc-typehints
-sphinx-rtd-theme
-myst-nb
